@@ -1,5 +1,9 @@
-public class HelloWorld {
+public class Objective1Lab1 {
+
 	public static void main(String[] args) {
-		System.out.println("Hello, World");
+		//This is where we will write our code.
+		System.out.println("Hello, Skill Distillery");
+		
 	}
+
 }
