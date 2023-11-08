@@ -1,8 +1,8 @@
-public class HelloWorld {
-	public static void main(String[] args) {
-		String withoutQuotes = "This is a sentence without quotes.";
-		String withQuotes = "This is a sentence with "quotes".";
-		System.out.println("withoutQuotes");
-		System.out.println("withQuotes");
-	}
+public class Objective2Lab2 {
+  public static void main(String[] args) {
+    String name = "Ieshia Parker";
+    int age = 37;
+    String state = "Louisiana";
+    System.out.println("Name: " [name] + "Age: " [age] + "State: " [state]);
+      }
 }
