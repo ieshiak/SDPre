@@ -1,8 +1,7 @@
 public class Objective3Lab2 {
     public static void main(String[] args) {
-        double side1 = 10.0;
-        double side2 = 8.0;
-        double sum = 
-        double hypotenuse = (side1 * 2) * (side2 * 2);
-    
-    System.out.println(The hypotenuse of a triangle with sides (side1) and (side2 is (hypotenuse));
+        double side1 = Math.sqrt(10 * 10);
+        double side2 = Math.sqrt(8 * 8);
+        System.out.println(Math.hypot(side1, side2));
+    }
+}
