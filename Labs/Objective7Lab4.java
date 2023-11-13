@@ -3,9 +3,10 @@ public class Objective7Lab4 {
     int counter = 1;
     int sum = 0;
 
-    while(counter < 20){
-      counter++;
+    while(counter <= 20){
       sum += counter;
+      counter++;
+      
     System.out.println(sum);
     }
   }
